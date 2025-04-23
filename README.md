@@ -1,4 +1,4 @@
-### Azure AI Hachathon
+### Azure AI Hackathon
 
 This repository demonstrates the implementation of multi-agent use cases using the Semantic Kernel framework.
 
